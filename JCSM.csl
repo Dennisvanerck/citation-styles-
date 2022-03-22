@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Public Library of Science</title>
+    <title>Journal of cachexia sarcopenia and muscle</title>
     <title-short>JCSM</title-short>
-    <id>http://www.zotero.org/styles/plos</id>
-    <link href="http://www.zotero.org/styles/plos" rel="self"/>
-    <link href="http://www.zotero.org/styles/vancouver" rel="template"/>
-    <link href="http://www.plosone.org/static/guidelines#references" rel="documentation"/>
     <author>
-      <name></name>
+      <name>Dennis van Erck</name>
     </author>
     <category citation-format="numeric"/>
     <category field="science"/>
